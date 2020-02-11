@@ -1,6 +1,13 @@
+<img alt src="https://raw.githubusercontent.com/stefa168/GC-static/master/common/ita.png" style="height:16px;width:30px;" />
+<img alt src="https://raw.githubusercontent.com/stefa168/GC-static/master/common/eng.png" style="height:16px;width:30px;" />
+
+<p><strong>~ GEOCACHE ~</strong></p>
+
+<p><strong>BYOP</strong> - Non c'è la penna! - No pen!</p>
+<p>Buona ricerca!<br/>
+Have fun!</p>
+<center>
 <img alt src="https://raw.githubusercontent.com/stefa168/GC-static/master/common/ftf.png" /> <strong>FTF</strong>: <br />
 <img alt src="https://raw.githubusercontent.com/stefa168/GC-static/master/common/stf.png" /> <strong>STF</strong>: <br />
 <img alt src="https://raw.githubusercontent.com/stefa168/GC-static/master/common/ttf.png" /> <strong>TTF</strong>: 
-
-<img alt src="https://raw.githubusercontent.com/stefa168/GC-static/master/common/ita.png" style="height:16px;width:30px;" />
-<img alt src="https://raw.githubusercontent.com/stefa168/GC-static/master/common/eng.png" style="height:16px;width:30px;" />
+</center>

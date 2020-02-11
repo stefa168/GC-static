@@ -1,0 +1,3 @@
+<img alt src="https://raw.githubusercontent.com/stefa168/GC-static/master/common/ftf.png" /> <strong>FTF</strong>: <br />
+<img alt src="https://raw.githubusercontent.com/stefa168/GC-static/master/common/stf.png" /> <strong>STF</strong>: <br />
+<img alt src="https://raw.githubusercontent.com/stefa168/GC-static/master/common/ttf.png" /> <strong>TTF</strong>: 

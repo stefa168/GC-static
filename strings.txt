@@ -1,5 +1,5 @@
-<img alt src="https://raw.githubusercontent.com/stefa168/GC-static/master/common/ita.png" style="height:16px;width:30px;" />
-<img alt src="https://raw.githubusercontent.com/stefa168/GC-static/master/common/eng.png" style="height:16px;width:30px;" />
+<img alt src="https://stefa168.github.io/GC-static/common/ita.png" style="height:16px;width:30px;" />
+<img alt src="https://stefa168.github.io/GC-static/common/eng.png" style="height:16px;width:30px;" />
 
 <p><strong>~ GEOCACHE ~</strong></p>
 
@@ -7,7 +7,7 @@
 <p>Buona ricerca!<br/>
 Have fun!</p>
 <center>
-<img alt src="https://raw.githubusercontent.com/stefa168/GC-static/master/common/ftf.png" /> <strong>FTF</strong>: <br />
-<img alt src="https://raw.githubusercontent.com/stefa168/GC-static/master/common/stf.png" /> <strong>STF</strong>: <br />
-<img alt src="https://raw.githubusercontent.com/stefa168/GC-static/master/common/ttf.png" /> <strong>TTF</strong>: 
+<img alt src="https://stefa168.github.io/GC-static/common/ftf.png" /> <strong>FTF</strong>: <br />
+<img alt src="https://stefa168.github.io/GC-static/common/stf.png" /> <strong>STF</strong>: <br />
+<img alt src="https://stefa168.github.io/GC-static/common/ttf.png" /> <strong>TTF</strong>: 
 </center>
